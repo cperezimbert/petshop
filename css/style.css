@@ -1,0 +1,27 @@
+.fondo-negro{
+    background-color: #222222;
+}
+.fondo-naranja{
+    background-color: #F0A83E;
+}
+.texto-blanco{
+    color: white;
+}
+.centrado{
+    text-align: center;
+}
+.texto-naranja{
+    color: #F0A83E;
+}
+.texto-marron{
+    color: #3C2313;
+}
+.texto-40{
+    font-size: 40px;
+}
+.texto-30{
+    font-size: 30px;
+}
+.fondo-marron{
+    background-color: #3C2313;;
+}
